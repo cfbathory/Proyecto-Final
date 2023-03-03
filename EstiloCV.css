@@ -1,0 +1,59 @@
+
+body{ 
+    background-color: rgb(183, 224, 250);
+    @media only screen and (max-width: 600px) {
+        body {
+          background-color: black;
+        }
+      }
+    }
+    
+    P{     
+    text-align: justify;
+    font-family: 'Tilt Neon'; 
+    margin-top: 8PX;
+    margin-bottom: 5PX;
+    margin-left: 8PX;
+    margin-right: 5PX;
+    color:rgb(64, 4, 120);
+    WIDTH: 600PX}  
+    Li{
+    
+    font-family: 'Tilt Neon'; 
+    PADDING: 3PX;
+    margin-top: 8PX;
+    margin-bottom: 5PX;
+    margin-left: 8PX;
+    margin-right: 1PX;    
+    color:blue;
+    WIDTH: 600PX}
+    H1{
+    
+    
+    font-family: 'Tilt Neon'; 
+    PADDING: 3PX;
+    margin-top: 8PX;
+    margin-bottom: 5PX;
+    margin-left: 8PX;
+    margin-right: 45PX;
+    COLOR: darkblue ;
+    WIDTH: 600PX}
+    
+    H3{
+       
+    align-items: center;
+    font-family: 'Tilt Neon'; 
+    margin-top: 8PX;
+    margin-bottom: 5PX;
+    margin-left: 8PX;
+    margin-right: 5PX;
+    COLOR:DARKBLUE;
+    WIDTH: 600PX}
+    
+    div{
+        PADDING: 5PX;
+        margin-top: 8PX;
+        margin-bottom: 5PX;
+        margin-left: 8PX;
+        margin-right: 5PX;
+        WIDTH: 600PX}
